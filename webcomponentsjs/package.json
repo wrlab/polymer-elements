@@ -38,7 +38,7 @@
     "es6-promise": "^4.1.1",
     "eslint": "^4.9.0",
     "google-closure-compiler": "^20170910.0.0",
-    "gulp": "^3.8.8",
+    "gulp": "^4.0.2",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.4.1",
     "rollup-plugin-babel": "^2.7.1",
